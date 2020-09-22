@@ -1,3 +1,4 @@
+<!--> Link to Google doc with some of my notes: https://docs.google.com/document/d/1-dewXbAVocSWtKw4lgrR0XhvE6Ibj_5tFEKzT5Fs1gA/edit?usp=sharing <!-->
 # A JavaScript Crash Course
 
 This is a JavaScript crash course for people who have just started to learn. It's nowhere close to comprehensive.
